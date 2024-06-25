@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7cb0a86657a3d9f45bd551bf89e3ce29
+timeCreated: 1533735831
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sangue: {instanceID: 0}
+  - bulletPrefab: {fileID: 1305599257535600, guid: 2e4a70330374a864c86ed147d28ef6a5,
+      type: 2}
+  - gunPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
